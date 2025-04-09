@@ -1,0 +1,8 @@
+Phase,Time(ms)
+File Reading,331
+Approach 1 (Brute Force),1258
+Approach 2 (Basic MapReduce),1911
+Approach 3 Map Phase,1771
+Approach 3 Group Phase,189
+Approach 3 Reduce Phase,105
+Approach 3 Total,2131
